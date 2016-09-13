@@ -10,4 +10,5 @@ git branch is quick & simple.
 =======
 git branch is quick & simple.
 >>>>>>> feature
---no-ff
+--no-ff/no fast forward
+
