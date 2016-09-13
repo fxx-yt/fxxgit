@@ -3,3 +3,4 @@ I am leaning it now.
 git is a free soft.
 git is so lovely.
 git has mutable jindex and stage.
+git tracks changes.
