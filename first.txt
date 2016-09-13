@@ -5,3 +5,4 @@ git is so lovely.
 git has mutable jindex and stage.
 git tracks changes.
 git branch is quick.
+git branch is quick & simple.
